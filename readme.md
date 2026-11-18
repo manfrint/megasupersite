@@ -1,4 +1,4 @@
-#:pizza:PizzaHub - удобный сервис заказа пиццы
+#:pizza:PizzаHub - удобный сервис заказа пиццы
 >*Описание*: **PizzaHub** - онлайн сервис  по заказу пиццы.
 <img width="640" height="640" alt="da" src= "https://github.com/userzamt/megasupersite/blob/master/img/logo.png" />
 
